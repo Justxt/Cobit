@@ -1,0 +1,6 @@
+@Cobit_HostAddress = http://localhost:5048
+
+GET {{Cobit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
